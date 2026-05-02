@@ -5,7 +5,7 @@ A simple Flask-based **User Management Microservice** for performing CRUD operat
 ---
 
 ## 🌐 Live Demo
-👉[ [https://arpita2005.pythonanywhere.com](https://arpita2005.pythonanywhere.com)](https://microservicepython.netlify.app/)
+👉 [https://microservicepython.netlify.app/](https://microservicepython.netlify.app/)
 
 ---
 
